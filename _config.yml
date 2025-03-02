@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhang Moran (张墨然)"
+title                    : "Zhang Moran"
 description              : "Master student"
 repository               : "Zhang-Moran/Zhang-Moran.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhang Moran"
+  name             : "Zhang Moran (张墨然)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "SUSTech"
   location         : "Shenzhen, China"
