@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-张墨然（Zhang Moran），硕士在读，研究兴趣为计算机视觉在生物医学以及农业上的应用，共发表1区 SCI论文5篇（3篇1作）。所主要负责研发的设备在北京大学生命科学技术学院（高校）、南方医科大学珠江医院（三甲医院）、深圳科兴药业有限公司(企业)等多家单位被使用。所发表文章入选教育部“101计划”核心教材、高等教育出版社“十四五”规划教材的“推荐阅读”专栏。曾主持中央高校基本科研业务费专项基金等项目3项，目前参与国家重点研发计划、深圳市重大科技专项等多个项目工作，重点从事模式动物行为学分析系统研发工作。
+张墨然（Zhang Moran），南方科技大学硕士在读，研究兴趣为计算机视觉在生物医学以及农业上的应用，共发表1区 SCI论文5篇（3篇1作）。所主要负责研发的设备在北京大学生命科学技术学院（高校）、南方医科大学珠江医院（三甲医院）、深圳科兴药业有限公司(企业)等多家单位被使用。所发表文章入选教育部“101计划”核心教材、高等教育出版社“十四五”规划教材的“推荐阅读”专栏。曾主持中央高校基本科研业务费专项基金等项目3项，目前参与国家重点研发计划、深圳市重大科技专项等多个项目工作，重点从事模式动物行为学分析系统研发工作。
 
 # 📝 Publications 
 
@@ -26,7 +26,7 @@ redirect_from:
 -	Qiao, Y., Liao, Q., **Zhang, M.**, Han, B., Peng, C., Huang, Z., Wang, S., Zhou, G., Xu, S*. Point clouds Segmentation of Rapeseed Based on Sparse-dense point clouds Mapping. Frontiers in Plant Science 2023. (SCI, JCR 1 区，中科院1区TOP)
 -	Han, S.; Liu, J.; Zhou, G.; Jin, Y.; **Zhang, M.**; Xu, S*. InceptionV3-LSTM: A Deep Learning Net for the Intelligent Prediction of Rapeseed Harvest Time. Agronomy 2022. (SCI，JCR 1区）
 
-# 📖 Educations（教育）
+# 📖 Educations
 - 2023.08 - 2026.07 (预期), 电子科学与技术, 生物医学工程系, 南方科技大学.  
 - 2019.09 - 2023.07, 机械电子工程（工学学士）, 工学院, 华中农业大学.  
 
@@ -59,3 +59,4 @@ redirect_from:
 -	第九届全国大学生农业建筑环境与能源工程相关专业创新创业竞赛，全国一等奖，农业工程学会，主要成员，2021年。
 -	国家励志奖学金，教育部、财政部，2021、2022、2023年。
 -	山东省优秀学生干部，山东省教育厅，2019年。
+-	华中农业大学十佳作品奖（全校仅10个/年），华中农业大学，校级，团队负责人，2022年。
