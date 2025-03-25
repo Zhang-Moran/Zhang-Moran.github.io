@@ -16,15 +16,16 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+
 张墨然（Zhang Moran），南方科技大学硕士在读，研究兴趣为计算机视觉在生物医学以及农业上的应用，共发表JCR 1区SCI论文5篇（3篇1作）。主要负责研发的科研实验设备被北京大学（知名高校）、南方医科大学珠江医院（知名三甲医院）、深圳科兴药业有限公司(知名企业)等多家单位所使用。主要发表的学术论文入选教育部“101计划”核心教材、高等教育出版社“十四五”规划教材的“推荐阅读”专栏。曾主持中央高校基本科研业务费专项基金等项目3项，目前参与国家重点研发计划、深圳市重大科技专项等多个项目工作，重点从事模式动物行为学分析系统的研发工作。
 
 # 📝 Publications 
 
--	**Zhang, M.**; Xu, S.; Han, Y; Li, D.; Yang, S.; Huang, Y. High-throughput horticultural phenomics: the history, recent advances and new prospects. Computer and Electronics in Agriculture 2023. (SCI, JCR 1 区，中科院1区TOP)
--	**Zhang, M.**; Han, Y.; Li, D.; Xu, S.; Huang, Y. Smart Horticulture as an Emerging Interdisciplinary Combining Novel Solutions: Past Development, Current Challenges and Future Perspectives. Horticultural Plant Journal 2023. (SCI，JCR 1区, 中科院1区TOP）
--	**Zhang, M.**; Xu, S.; Huang, Y.; Bie, Z.; Notaguchi, M.; Zhou, J.; Wan, X.; Wang, Y.; Dong, W. Non-Destructive Measurement of the Pumpkin Rootstock Root Phenotype Using AZURE KINECT. Plants 2022. (SCI，JCR 1区）
--	Qiao, Y., Liao, Q., **Zhang, M.**, Han, B., Peng, C., Huang, Z., Wang, S., Zhou, G., Xu, S. Point clouds Segmentation of Rapeseed Based on Sparse-dense point clouds Mapping. Frontiers in Plant Science 2023. (SCI, JCR 1 区，中科院1区TOP)
--	Han, S.; Liu, J.; Zhou, G.; Jin, Y.; **Zhang, M.**; Xu, S. InceptionV3-LSTM: A Deep Learning Net for the Intelligent Prediction of Rapeseed Harvest Time. Agronomy 2022. (SCI，JCR 1区，中科院二区，IF<sub>2022</sub>=3.9）
+-	**Zhang, M.**; Xu, S.; Han, Y; Li, D.; Yang, S.; Huang, Y. High-throughput horticultural phenomics: the history, recent advances and new prospects. Computer and Electronics in Agriculture 2023. (SCI, IF<sub>2023</sub>=8.3，JCR 1 区，中科院1区TOP)
+-	**Zhang, M.**; Han, Y.; Li, D.; Xu, S.; Huang, Y. Smart Horticulture as an Emerging Interdisciplinary Combining Novel Solutions: Past Development, Current Challenges and Future Perspectives. Horticultural Plant Journal 2023. (SCI，IF<sub>2023</sub>=5.7，JCR 1区, 中科院1区TOP）
+-	**Zhang, M.**; Xu, S.; Huang, Y.; Bie, Z.; Notaguchi, M.; Zhou, J.; Wan, X.; Wang, Y.; Dong, W. Non-Destructive Measurement of the Pumpkin Rootstock Root Phenotype Using AZURE KINECT. Plants 2022. (SCI，IF<sub>2022</sub>=4.7, JCR 1区,中科院2区）
+-	Qiao, Y., Liao, Q., **Zhang, M.**, Han, B., Peng, C., Huang, Z., Wang, S., Zhou, G., Xu, S. Point clouds Segmentation of Rapeseed Based on Sparse-dense point clouds Mapping. Frontiers in Plant Science 2023. (SCI, IF<sub>2022</sub>=6.6, JCR 1 区，中科院1区TOP)
+-	Han, S.; Liu, J.; Zhou, G.; Jin, Y.; **Zhang, M.**; Xu, S. InceptionV3-LSTM: A Deep Learning Net for the Intelligent Prediction of Rapeseed Harvest Time. Agronomy 2022. (SCI，IF<sub>2022</sub>=3.9, JCR 1区，中科院2区）
 
 # 📖 Educations
 - 2023.08 - 2026.07 (预期), 电子科学与技术, 生物医学工程系, 南方科技大学.  
