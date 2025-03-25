@@ -23,11 +23,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhang Moran (张墨然)"
   avatar           : "images/cvimg.jpg"
-  bio              : 
+  bio              : "Southern University of Science and Technology"
   location         : "Shenzhen, China"
-  employer         : "Southern University of Science and Technology"
+  employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=7ia_5YsAAAAJ"
   email            : "12332581@mail.sustech.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Moran-Zhang?ev=hdr_xprf"
   uri              :
