@@ -24,7 +24,7 @@ redirect_from:
 -	**Zhang, M.**; Han, Y.; Li, D.; Xu, S.; Huang, Y. Smart Horticulture as an Emerging Interdisciplinary Combining Novel Solutions: Past Development, Current Challenges and Future Perspectives. Horticultural Plant Journal 2023. (SCI，JCR 1区, 中科院1区TOP）
 -	**Zhang, M.**; Xu, S.; Huang, Y.; Bie, Z.; Notaguchi, M.; Zhou, J.; Wan, X.; Wang, Y.; Dong, W. Non-Destructive Measurement of the Pumpkin Rootstock Root Phenotype Using AZURE KINECT. Plants 2022. (SCI，JCR 1区）
 -	Qiao, Y., Liao, Q., **Zhang, M.**, Han, B., Peng, C., Huang, Z., Wang, S., Zhou, G., Xu, S. Point clouds Segmentation of Rapeseed Based on Sparse-dense point clouds Mapping. Frontiers in Plant Science 2023. (SCI, JCR 1 区，中科院1区TOP)
--	Han, S.; Liu, J.; Zhou, G.; Jin, Y.; **Zhang, M.**; Xu, S. InceptionV3-LSTM: A Deep Learning Net for the Intelligent Prediction of Rapeseed Harvest Time. Agronomy 2022. (SCI，JCR 1区）
+-	Han, S.; Liu, J.; Zhou, G.; Jin, Y.; **Zhang, M.**; Xu, S. InceptionV3-LSTM: A Deep Learning Net for the Intelligent Prediction of Rapeseed Harvest Time. Agronomy 2022. (SCI，JCR 1区，中科院二区，IF~{2022}=3.9）
 
 # 📖 Educations
 - 2023.08 - 2026.07 (预期), 电子科学与技术, 生物医学工程系, 南方科技大学.  
