@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-张墨然（Zhang Moran），南方科技大学硕士在读，研究兴趣为计算机视觉在生物医学以及农业上的应用，共发表JCR 1区SCI论文5篇（3篇1作）<a href='https://scholar.google.com/citations?user=7ia_5YsAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3D7ia_5YsAAAAJ&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>。主要负责研发的科研实验设备被北京大学（知名高校）、南方医科大学珠江医院（知名三甲医院）、深圳科兴药业有限公司(知名企业)等多家单位所使用。主要发表的学术论文入选教育部“101计划”核心教材、高等教育出版社“十四五”规划教材的“推荐阅读”专栏。曾主持中央高校基本科研业务费专项基金等项目3项，目前参与国家重点研发计划、深圳市重大科技专项等多个项目工作，重点从事模式动物行为学分析系统的研发工作。
+张墨然（Zhang Moran），南方科技大学硕士在读，研究兴趣为计算机视觉在生物医学以及农业上的应用，共发表JCR 1区SCI论文5篇（3篇1作）<a href='https://scholar.google.com/citations?user=7ia_5YsAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3D7ia_5YsAAAAJ"></a>。主要负责研发的科研实验设备被北京大学（知名高校）、南方医科大学珠江医院（知名三甲医院）、深圳科兴药业有限公司(知名企业)等多家单位所使用。主要发表的学术论文入选教育部“101计划”核心教材、高等教育出版社“十四五”规划教材的“推荐阅读”专栏。曾主持中央高校基本科研业务费专项基金等项目3项，目前参与国家重点研发计划、深圳市重大科技专项等多个项目工作，重点从事模式动物行为学分析系统的研发工作。
 
 # 📝 Publications 
 
