@@ -50,11 +50,11 @@ redirect_from:
 -	**基于多模态生理信息的个性化心肺脑复苏智能一体机研发，深圳市科技重大专项(重202321087)，2023-2025，负责基于多模态生理信息的心肺脑复苏智能反馈核心算法研究及改进，在研。** <br>
 -	**植入式舌下神经刺激电极与呼吸检测技术研发，国家重点研发计划(2024YFC2417901)，2024-2027，参与，在研。** <br>
 
-# 📝 Overseas exchange programs
+# 📝 Meetings and exchanges
 - **Winter Exchange Program GSA-Kyoto 2021-2022**, Topic: Transformation of Food, Life & Environment in East Asia and Advanced Research, kyoto University, 2021.12-2022.2
 - **GYLA-Winter Program**, held by International Training Centre of International Labor Organization (ITCILO) of United Nations. Outstandingly. 2021.1-2021.2
 
-# 🎖 Honors and Awards
+# 🎖 Honors and awards
 -	全国大学生生命科学竞赛（2022，创新创业类），**全国特等奖（前1%）**，团队负责人，2022年。
 -	第九届全国大学生农业建筑环境与能源工程相关专业创新创业竞赛，全国一等奖，农业工程学会，主要成员，2021年。
 -	国家励志奖学金，教育部、财政部，2021、2022、2023年。
