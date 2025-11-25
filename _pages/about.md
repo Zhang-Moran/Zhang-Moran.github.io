@@ -28,6 +28,7 @@ redirect_from:
 -	2022.11, 华中农业大学十佳作品奖（全校仅10个/年），华中农业大学，团队负责人。
 
 # 📝 Publications
+- <span style="background:#0366d6; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">ICML 2023</span>Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models
 - [6] **Zhang Moran†**, Li Qianqian†, Li Shunhang†, Sun Binxian, Wu Zhuli, Liu Jinxuan, Geng Xingchao* and Chen Fangyi*. MWB_Analyzer: An Automated Embedded System for Real-Time Quantitative Analysis of Morphine Withdrawal Behaviors in Rodents. Toxics 2025. 13 (7): 586. https://doi.org/10.3390/toxics13070586 (SCI, IF<sub>2025</sub>=4.1，JCR 1 区，中科院3区)
 -	[5] **Zhang Moran**, Han Yutong, Li Dongping, Xu Shengyong* and Huang Yuan*. Smart Horticulture as an Emerging Interdisciplinary Combining Novel Solutions: Past Development, Current Challenges and Future Perspectives.  (SCI，IF<sub>2024</sub>=5.7，JCR 1区, 中科院1区TOP）
 -	[4] **Zhang Moran**, Xu Shengyong*, Han Yutong, Li Dongping, Yang Shuo and Huang Yuan*. High-throughput horticultural phenomics: the history, recent advances and new prospects. Comput. Electron. Agric. 2023. 213: 108265. https://doi.org/10.1016/j.compag.2023.108265 (SCI, IF<sub>2023</sub>=8.3，JCR 1 区，中科院1区TOP)
