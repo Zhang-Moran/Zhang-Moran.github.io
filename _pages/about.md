@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-张墨然（Zhang Moran），南方科技大学硕士在读，研究兴趣为计算机视觉在生物医学以及农业上的应用，共发表JCR 1区SCI论文6篇（4篇1作）。主要负责研发的科研实验设备被北京大学、南方医科大学珠江医院、深圳科兴药业有限公司等多家单位所使用。主要发表的学术论文入选教育部“101计划”核心教材、高等教育出版社“十四五”规划教材的“推荐阅读”专栏。曾主持中央高校基本科研业务费专项基金等项目3项，目前参与国家重点研发计划、深圳市重大科技专项等多个项目工作，从事AI在生物医学及农业的应用，主要兴趣在于植物表型与模式动物行为学分析系统的研发工作。
+**张墨然（Zhang Moran）**，南方科技大学硕士在读，研究兴趣为AI在生物医学以及农业上的应用，共发表**JCR 1区SCI论文6篇（4篇1作）**。主要负责研发的科研实验设备被**北京大学、南方医科大学珠江医院、深圳科兴药业有限公司**等多家单位所使用。主要发表的学术论文**入选教育部“101计划”核心教材、高等教育出版社“十四五”规划教材的“推荐阅读”专栏**。曾主持中央高校基本科研业务费专项基金等项目3项，目前参与国家重点研发计划、深圳市重大科技专项等多个项目工作，主要兴趣在于**植物表型与模式动物行为学分析系统**的研发工作。
 # 📝 Publications
 - **Zhang Moran†**, Li Qianqian†, Li Shunhang†, Sun Binxian, Wu Zhuli, Liu Jinxuan, Geng Xingchao* and Chen Fangyi*. MWB_Analyzer: An Automated Embedded System for Real-Time Quantitative Analysis of Morphine Withdrawal Behaviors in Rodents. Toxics 2025. 13 (7): 586. https://doi.org/10.3390/toxics13070586 (SCI, IF<sub>2025</sub>=4.1，JCR 1 区，中科院3区)
 -	**Zhang Moran**, Han Yutong, Li Dongping, Xu Shengyong* and Huang Yuan*. Smart Horticulture as an Emerging Interdisciplinary Combining Novel Solutions: Past Development, Current Challenges and Future Perspectives.  (SCI，IF<sub>2024</sub>=5.7，JCR 1区, 中科院1区TOP）
