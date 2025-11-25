@@ -17,14 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-张墨然（Zhang Moran），南方科技大学硕士在读，研究兴趣为计算机视觉在生物医学以及农业上的应用，共发表JCR 1区SCI论文5篇（3篇1作）。主要负责研发的科研实验设备被北京大学（知名高校）、南方医科大学珠江医院（知名三甲医院）、深圳科兴药业有限公司(知名企业)等多家单位所使用。主要发表的学术论文入选教育部“101计划”核心教材、高等教育出版社“十四五”规划教材的“推荐阅读”专栏。曾主持中央高校基本科研业务费专项基金等项目3项，目前参与国家重点研发计划、深圳市重大科技专项等多个项目工作，重点从事模式动物行为学分析系统的研发工作。
-# 📝 Publications 
+张墨然（Zhang Moran），南方科技大学硕士在读，研究兴趣为计算机视觉在生物医学以及农业上的应用，共发表JCR 1区SCI论文6篇（4篇1作）。主要负责研发的科研实验设备被北京大学、南方医科大学珠江医院、深圳科兴药业有限公司等多家单位所使用。主要发表的学术论文入选教育部“101计划”核心教材、高等教育出版社“十四五”规划教材的“推荐阅读”专栏。曾主持中央高校基本科研业务费专项基金等项目3项，目前参与国家重点研发计划、深圳市重大科技专项等多个项目工作，从事AI在生物医学及农业的应用，主要兴趣在于植物表型与模式动物行为学分析系统的研发工作。
+# 📝 Publications
+- **Zhang Moran†**, Li Qianqian†, Li Shunhang†, Sun Binxian, Wu Zhuli, Liu Jinxuan, Geng Xingchao* and Chen Fangyi*. MWB_Analyzer: An Automated Embedded System for Real-Time Quantitative Analysis of Morphine Withdrawal Behaviors in Rodents. Toxics 2025. 13 (7): 586. https://doi.org/10.3390/toxics13070586 (SCI, IF<sub>2025</sub>=4.1，JCR 1 区，中科院3区)
+-	**Zhang Moran**, Han Yutong, Li Dongping, Xu Shengyong* and Huang Yuan*. Smart Horticulture as an Emerging Interdisciplinary Combining Novel Solutions: Past Development, Current Challenges and Future Perspectives.  (SCI，IF<sub>2024</sub>=5.7，JCR 1区, 中科院1区TOP）
+-	**Zhang Moran**, Xu Shengyong*, Han Yutong, Li Dongping, Yang Shuo and Huang Yuan*. High-throughput horticultural phenomics: the history, recent advances and new prospects. Comput. Electron. Agric. 2023. 213: 108265. https://doi.org/10.1016/j.compag.2023.108265 (SCI, IF<sub>2023</sub>=8.3，JCR 1 区，中科院1区TOP)
+- **Zhang Moran**, Xu Shengyong, Huang Yuan, Bie Zhilong, Notaguchi Michitaka, Zhou Jingyi, Wan Xin, Wang Yuchen and Dong Wanjing*. Non-Destructive Measurement of the Pumpkin Rootstock Root Phenotype Using AZURE KINECT. Plants 2022. 11 (9), 1144. (SCI，IF<sub>2022</sub>=4.7, JCR 1区, 中科院2区）
+-	Qiao Yuhui, Liao Qingxi, **Zhang Moran**, Han Binbin, Peng Chengli, Huang Zhenhao, Wang Shaodong, Zhou Guangsheng and Xu Shengyong*. Point Clouds Segmentation of Rapeseed Based on Sparse-dense Point Clouds Mapping. Front. Plant Sci. 2023. 14:1188286. (SCI, IF<sub>2023</sub>=6.6, JCR 1 区，中科院1区TOP)
+-	Han Shaojie, Liu Jianxiao, Zhou Guangsheng, Jin Yechen, **Zhang Moran** and Xu Shengyong*. InceptionV3-LSTM: A Deep Learning Net for the Intelligent Prediction of Rapeseed Harvest Time. Agronomy 2022. 12 (12): 3046. https://doi.org/10.3390/agronomy12123046 (SCI，IF<sub>2022</sub>=3.9, JCR 1区，中科院2区）
 
--	**Zhang, M.**; Xu, S.; Han, Y; Li, D.; Yang, S.; Huang, Y. High-throughput horticultural phenomics: the history, recent advances and new prospects. Computer and Electronics in Agriculture 2023. (SCI, IF<sub>2023</sub>=8.3，JCR 1 区，中科院1区TOP)
--	**Zhang, M.**; Han, Y.; Li, D.; Xu, S.; Huang, Y. Smart Horticulture as an Emerging Interdisciplinary Combining Novel Solutions: Past Development, Current Challenges and Future Perspectives. Horticultural Plant Journal 2023. (SCI，IF<sub>2023</sub>=5.7，JCR 1区, 中科院1区TOP）
--	**Zhang, M.**; Xu, S.; Huang, Y.; Bie, Z.; Notaguchi, M.; Zhou, J.; Wan, X.; Wang, Y.; Dong, W. Non-Destructive Measurement of the Pumpkin Rootstock Root Phenotype Using AZURE KINECT. Plants 2022. (SCI，IF<sub>2022</sub>=4.7, JCR 1区, 中科院2区）
--	Qiao, Y., Liao, Q., **Zhang, M.**, Han, B., Peng, C., Huang, Z., Wang, S., Zhou, G., Xu, S. Point clouds Segmentation of Rapeseed Based on Sparse-dense point clouds Mapping. Frontiers in Plant Science 2023. (SCI, IF<sub>2023</sub>=6.6, JCR 1 区，中科院1区TOP)
--	Han, S.; Liu, J.; Zhou, G.; Jin, Y.; **Zhang, M.**; Xu, S. InceptionV3-LSTM: A Deep Learning Net for the Intelligent Prediction of Rapeseed Harvest Time. Agronomy 2022. (SCI，IF<sub>2022</sub>=3.9, JCR 1区，中科院2区）
+# 📝 Patents
+[1]陈放怡, 耿兴超, **张墨然**等. 药物成瘾性评价方法、系统、设备及可读存储介质(CN202510914835.6)，发明专利（已进入实质审查并公开）. 2025-09-30. 
+[2]陈放怡, **张墨然**, 陈闽. 行为识别方法､装置､计算机设备､存储介质和存储介质(CN202411955159.9)，发明专利（已进入实质审查并公开）. 2025-05-16.
 
 # 📖 Educations
 - 2023.08 - 2026.07 (预期), 电子科学与技术, 生物医学工程系, 南方科技大学.  
@@ -35,9 +39,9 @@ redirect_from:
 (1) 设计了一款多视角全场景大小鼠行为识别系统。<br>
 (2) 开发了一种适用于多物种行为视频理解AI方法。该研究成果相关文章待投稿。
 - **大鼠药物成瘾戒断症状自动化检测系统设计与研究，中国食品药品检定研究院合作项目，2021-2024，项目主要成员，负责系统设计、算法开发与实验验证工作，已结题。** <br>
-与中国食品药品检定研究院合作，完成大鼠药物成瘾戒断症状自动化检测系统。该项目提出一种新的轻量级视频理解AI方法，同时，引入一种新的吗啡成瘾戒断行为计分方法，实现对药物成瘾更加客观、全面的评价。该项目申请发明专利1项。该研究成果相关文章待投稿。
+与中国食品药品检定研究院合作，完成大鼠药物成瘾戒断症状自动化检测系统。该项目提出一种新的轻量级视频理解AI方法，同时，引入一种新的吗啡成瘾戒断行为计分方法，实现对药物成瘾更加客观、全面的评价。该项目申请发明专利1项。相关研究成果发表在Toxics.
 - **大小鼠瘙痒行为分析系统，横向项目，2022-2025，项目主要成员，负责系统设计、算法开发与实验验证工作，已结题。** <br>
-与华中科技大学同济医学院合作，完成基于边缘计算与深度学习的多通道啮齿动物抓挠行为实时识别系统。该系统不仅可以对啮齿动物抓挠次数及时间进行统计，还能对抓挠部位进行识别并分类。抓挠作为评估瘙痒程度的重要标准，该识别系统有望改变人工识别效率低下的现状，提高机制、基因、临床研究以及新药研发的效率。该项目申请发明专利1项。相关设备在**北京大学生命科学技术学院、南方医科大学珠江医院、深圳科兴药业有限公司等多家单位**被使用。
+完成基于边缘计算与深度学习的多通道啮齿动物抓挠行为实时识别系统；目前，该设备已成功推向市场，约20台设备被北京大学、南方医科大学珠江医院、深圳科兴药业有限公司等多家单位所使用，充分体现了该成果在实际生产中的可行性与经济价值，展现了良好的科技成果转化能力。该项目申请发明专利1项，相关研究成果已投稿并进入同行评审。
 - **单株嫁接苗精密3D表型检测及嫁接愈合诊断专家系统，中央高校基本科研业务费基金(BC2022111)，2022-2023，主持，已结题。** <br>
 (1) 与西藏绿之源现代农业科技股份有限公司合作，从全产业链上系统总结智慧园艺（Smart Horticulture）的概念及现状；该研究成果以第一作者身份发表在Horticultural Plant Journal，并**入选教育部“101计划”核心教材、高等教育出版社“十四五”规划教材的“推荐阅读”专栏**。<br>
 (2)该项目提出一种基于AI的单株嫁接苗精密3D表型检测及嫁接愈合诊断专家系统，授权软件著作权1项。
@@ -58,8 +62,16 @@ redirect_from:
 - **GYLA-Winter Program**, held by International Training Centre of International Labor Organization (ITCILO) of United Nations. Outstandingly. 2021.1-2021.2
 
 # 🎖 Honors and awards
--	全国大学生生命科学竞赛（2022，创新创业类），**全国特等奖（前1%）**，团队负责人，2022年。
+- **国家奖学金**，教育部，2025年。
+-	**全国大学生生命科学竞赛，全国特等奖（前1%）**，团队负责人，2022年。
 -	第九届全国大学生农业建筑环境与能源工程相关专业创新创业竞赛，全国一等奖，农业工程学会，主要成员，2021年。
--	国家励志奖学金，教育部、财政部，2021、2022、2023年。
+-	国家励志奖学金，教育部，2021、2022、2023年。
 -	山东省优秀学生干部，山东省教育厅，2019年。
 -	华中农业大学十佳作品奖（全校仅10个/年），华中农业大学，校级，团队负责人，2022年。
+
+# 学生工作
+- 2024.2-2024.6               南方科技大学生物医学工程系本科课程（定量生理学II）                   助教
+- 2023.9-2024.2                        南方科技大学生物医学工程系                              学生助管
+- 2020.9-2023.6               华中农业大学机械类专业1907（行政班）团支部                团支部书记、班长
+- 2022.6-2023.6                   华中农业大学机电本科生第一党支部                       党支部组织委员
+- 2021.3-2023.6                   华中农业大学机电1902班（专业班）                        班级学习委员
