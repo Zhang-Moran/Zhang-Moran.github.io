@@ -39,7 +39,8 @@ redirect_from:
 - [2] <span style="background:#03228D; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">发明专利 2025</span> 陈放怡, 耿兴超, **张墨然**等. 药物成瘾性评价方法、系统、设备及可读存储介质(CN202510914835.6)，实质审查并公开. 2025.07. 
 - [1] <span style="background:#03228D; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">发明专利 2024</span> 陈放怡, **张墨然**, 陈闽. 行为识别方法､装置､计算机设备､存储介质和存储介质(CN202411955159.9)，实质审查并公开. 2024.12.
 
-# 📖 Educations
+# <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/39f837a6-e627-4c70-81bd-4a9446eac17c" />
+ Educations
 - <span style="background:#03228D; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">工学硕士在读</span> 2023.08 - 2026.07 (预期), 南方科技大学, 深圳.  
 - <span style="background:#03228D; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">工学学士</span> 2019.09 - 2023.07, 华中农业大学, 武汉. 
 
