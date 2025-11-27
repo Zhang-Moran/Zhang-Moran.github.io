@@ -27,7 +27,7 @@ redirect_from:
 -	2021.06, 第九届全国大学生农业建筑环境与能源工程相关专业创新创业竞赛，全国一等奖。
 -	2022.11, 华中农业大学十佳作品奖（全校仅10个/年），华中农业大学，团队负责人。
 
-# 📝 Publications 
+# <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/f23d1dac-7866-4929-80aa-6e107d507819" />  Publications 
 - [6] <span style="background:#03228D; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Toxics 2025</span> **Zhang Moran†**, Li Qianqian†, Li Shunhang†, Sun Binxian, Wu Zhuli, Liu Jinxuan, Geng Xingchao* and Chen Fangyi*. MWB_Analyzer: An Automated Embedded System for Real-Time Quantitative Analysis of Morphine Withdrawal Behaviors in Rodents. Toxics 2025. 13 (7): 586. https://doi.org/10.3390/toxics13070586 (SCI, IF<sub>2025</sub>=4.1，JCR 1 区，中科院3区)
 -	[5] <span style="background:#03228D; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Hortic. Plant J. 2024</span> **Zhang Moran**, Han Yutong, Li Dongping, Xu Shengyong* and Huang Yuan*. Smart Horticulture as an Emerging Interdisciplinary Combining Novel Solutions: Past Development, Current Challenges and Future Perspectives.  Hortic. Plant J. 2024. 10 (6): 1257-1273. https://doi.org/10.1016/j.hpj.2023.03.015 (SCI，IF<sub>2024</sub>=5.7，JCR 1区, 中科院1区TOP）<span style="color:#8B0000;"> Highlight: 入选教育部“101计划”核心教材、高等教育出版社“十四五”规划教材的“推荐阅读”专栏</span>
 -	[4] <span style="background:#03228D; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Comput. Electron. Agric. 2023</span> **Zhang Moran**, Xu Shengyong*, Han Yutong, Li Dongping, Yang Shuo and Huang Yuan*. High-throughput horticultural phenomics: the history, recent advances and new prospects. Comput. Electron. Agric. 2023. 213: 108265. https://doi.org/10.1016/j.compag.2023.108265 (SCI, IF<sub>2023</sub>=8.3，JCR 1 区，中科院1区TOP)
@@ -35,7 +35,7 @@ redirect_from:
 -	[2] <span style="background:#03228D; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Front. Plant Sci. 2023</span> Qiao Yuhui, Liao Qingxi, **Zhang Moran**, Han Binbin, Peng Chengli, Huang Zhenhao, Wang Shaodong, Zhou Guangsheng and Xu Shengyong*. Point Clouds Segmentation of Rapeseed Based on Sparse-dense Point Clouds Mapping. Front. Plant Sci. 2023. 14:1188286. (SCI, IF<sub>2023</sub>=6.6, JCR 1 区，中科院1区TOP)
 -	[1] <span style="background:#03228D; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Agronomy 2022</span> Han Shaojie, Liu Jianxiao, Zhou Guangsheng, Jin Yechen, **Zhang Moran** and Xu Shengyong*. InceptionV3-LSTM: A Deep Learning Net for the Intelligent Prediction of Rapeseed Harvest Time. Agronomy 2022. 12 (12): 3046. https://doi.org/10.3390/agronomy12123046 (SCI，IF<sub>2022</sub>=3.9, JCR 1区，中科院2区）
 
-# 📝 Patents
+# <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/43c0fd0e-c66d-4a2a-87f2-7658eb26882c" />  Patents
 - [2] <span style="background:#03228D; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">发明专利 2025</span> 陈放怡, 耿兴超, **张墨然**等. 药物成瘾性评价方法、系统、设备及可读存储介质(CN202510914835.6)，实质审查并公开. 2025.07. 
 - [1] <span style="background:#03228D; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">发明专利 2024</span> 陈放怡, **张墨然**, 陈闽. 行为识别方法､装置､计算机设备､存储介质和存储介质(CN202411955159.9)，实质审查并公开. 2024.12.
 
@@ -66,11 +66,11 @@ redirect_from:
 -	**基于多模态生理信息的个性化心肺脑复苏智能一体机研发，深圳市科技重大专项(重202321087)，2023-2025，负责基于多模态生理信息的心肺脑复苏智能反馈核心算法研究及改进，在研。** <br>
 -	**植入式舌下神经刺激电极与呼吸检测技术研发，国家重点研发计划(2024YFC2417901)，2024-2027，参与，在研。** <br>
 
-# 📝 Meetings and exchanges
+# <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/f24ef6cf-a305-4a8d-a150-89b8f0a4cd76" />  Meetings and exchanges
 - 2021.12-2022.02, **Winter Exchange Program GSA-Kyoto 2021-2022**, Topic: Transformation of Food, Life & Environment in East Asia and Advanced Research, kyoto University.
 - 2021.01-2021.02, **GYLA-Winter Program**, held by International Training Centre of International Labor Organization (ITCILO) of United Nations. Outstandingly. 
 
-# 🎖 Student affairs
+# <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/e99967d1-75ca-46da-865d-63fe6b43c00b" />  Student affairs
 - 2024.02-2024.06               南方科技大学生物医学工程系本科课程（定量生理学II）                   助教
 - 2023.09-2024.02                        南方科技大学生物医学工程系                              学生助管
 - 2020.09-2023.06               华中农业大学机械类专业1907（行政班）团支部                团支部书记、班长
