@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<span style="color:#03228D;"> **张墨然（Zhang Moran）** </span>，南方科技大学硕士在读，研究兴趣为<span style="color:#03228D;"> **AI在生物医学以及农业上的应用** </span>，共发表<span style="color:#03228D;"> **JCR 1区SCI论文6篇（4篇1作）** </span>。主要负责研发的<span style="color:#03228D;">**科研实验设备被北京大学、南方医科大学珠江医院、深圳科兴药业有限公司 </span>**等多家单位所使用。主要发表的<span style="color:#03228D;">**学术论文入选教育部“101计划”核心教材、高等教育出版社“十四五”规划教材的“推荐阅读”专栏** </span>。曾主持<span style="color:#03228D;">**中央高校基本科研业务费专项基金** </span>等项目3项，目前参与国家重点研发计划、深圳市重大科技专项等多个项目工作，主要兴趣在于**植物表型与模式动物行为学分析系统**的研发工作。
+<span style="color:#03228D;"> **张墨然（Zhang Moran）** </span>，南方科技大学硕士在读，研究兴趣为<span style="color:#03228D;"> **AI在生物医学以及农业上的应用** </span>，共发表<span style="color:#03228D;"> **JCR 1区SCI论文6篇（4篇1作）** </span>。主要负责研发的<span style="color:#03228D;">**科研实验设备被北京大学、南方医科大学珠江医院、深圳科兴药业有限公司** </span>等多家单位所使用。主要发表的<span style="color:#03228D;">**学术论文入选教育部“101计划”核心教材、高等教育出版社“十四五”规划教材的“推荐阅读”专栏** </span>。曾主持<span style="color:#03228D;">**中央高校基本科研业务费专项基金** </span>等项目3项，目前参与国家重点研发计划、深圳市重大科技专项等多个项目工作，主要兴趣在于**植物表型与模式动物行为学分析系统**的研发工作。
 
 # <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/63f07c8f-e7cc-48f4-9923-40109345c0f7" />  Honors and awards
 - 2025.12, **国家奖学金**，教育部。
