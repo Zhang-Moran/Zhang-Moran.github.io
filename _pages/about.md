@@ -43,7 +43,7 @@ redirect_from:
 - <span style="background:#03228D; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">工学硕士在读</span> 2023.08 - 2026.07 (预期), 南方科技大学, 深圳.  
 - <span style="background:#03228D; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">工学学士</span> 2019.09 - 2023.07, 华中农业大学, 武汉. 
 
-# 💬 Project
+# <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/852b5373-6bfa-47ad-947a-e0ed2f771d60" />  Project
 - **基于AI的大小鼠开放旷场行为实时识别的嵌入式系统设计与研究，自由探索类课题，2023-至今，项目主要成员，负责系统设计、算法开发与实验验证工作，在研。** <br>
 (1) 设计了一款多视角全场景大小鼠行为识别系统。<br>
 (2) 开发了一种适用于多物种行为视频理解AI方法。该研究成果相关文章待投稿。
