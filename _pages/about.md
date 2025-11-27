@@ -54,6 +54,7 @@ redirect_from:
 -	[03] **果菜苗根系关键农艺参数的无损测量，中央高校基本科研业务费基金项目(BC2021201)，2021-2022，主持（1/5），已结题。** <br>
 -	[02] **基于3D表型和温度场的果菜苗生长状况视觉诊断方法，湖北省大学生创新创业基金(S202110504191), 2021-2022，主持（1/5），已结题。** <br>
 -	[01] 面向温室作物的盆栽表型信息获取机器人，国家级大学生创新创业基金(202110504059)，2021-2022，项目主要成员（4/5），已结题。 <br>
+
 # <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/f24ef6cf-a305-4a8d-a150-89b8f0a4cd76" />  Meetings and exchanges
 - 2021.12-2022.02, **Winter Exchange Program GSA-Kyoto 2021-2022**, Topic: Transformation of Food, Life & Environment in East Asia and Advanced Research, kyoto University.
 - 2021.01-2021.02, **GYLA-Winter Program**, held by International Training Centre of International Labor Organization (ITCILO) of United Nations. Outstandingly. 
