@@ -40,7 +40,7 @@ redirect_from:
 - [01] <span style="background:#03228D; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">发明专利 2024</span> 陈放怡, **张墨然**, 陈闽. 行为识别方法､装置､计算机设备､存储介质和存储介质(CN202411955159.9)，实质审查并公开. 2024.12.
 
 # <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/0490c3c3-43a7-4757-a2f9-070fda332dd1" />  Educations
-- <span style="background:#03228D; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">工学硕士在读</span> 2023.08 - 2026.07 (预期), 南方科技大学, 深圳.  
+- <span style="background:#03228D; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">工学硕士</span> 2023.08 - 2026.07 (预期), 南方科技大学, 深圳.  
 - <span style="background:#03228D; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">工学学士</span> 2019.09 - 2023.07, 华中农业大学, 武汉. 
 
 # <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/852b5373-6bfa-47ad-947a-e0ed2f771d60" />  Project
