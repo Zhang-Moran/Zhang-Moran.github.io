@@ -22,7 +22,6 @@ redirect_from:
 # <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/bc66729d-22e0-4ac5-aeba-07ac07a462ff" />  News
 - 2025.12, 获得硕士研究生国家奖学金。
 - 2025.11, 收到华为录用意向。
-- 2025.11，获得国家人工智能学院优秀营员。
 
 # <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/63f07c8f-e7cc-48f4-9923-40109345c0f7" />  Honors and awards
 - 2025.12, **国家奖学金**，教育部。
