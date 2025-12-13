@@ -45,7 +45,7 @@ redirect_from:
 
 # <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/0490c3c3-43a7-4757-a2f9-070fda332dd1" />  Educations
 - <span style="background:#03228D; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">工学硕士</span> 2023.08 - 至今, 南方科技大学, 电子科学与技术专业，深圳.  
-- <span style="background:#03228D; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">工学学士</span> 2019.09 - 2023.07, 华中农业大学, 江西额电子工程专业，武汉. 
+- <span style="background:#03228D; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">工学学士</span> 2019.09 - 2023.07, 华中农业大学, 机械电子工程专业，武汉. 
 
 # <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/852b5373-6bfa-47ad-947a-e0ed2f771d60" />  Project
 - [10] **基于AI的大小鼠开放旷场行为实时识别的嵌入式系统设计与研究，硕士研究生课题，2023-至今，主持(1/9)，在研。** <br>
