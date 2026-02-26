@@ -69,8 +69,9 @@ redirect_from:
 - 2021.01-2021.02, **GYLA-Winter Program**, held by International Training Centre of International Labor Organization (ITCILO) of United Nations. Outstandingly. 
 
 # <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/e99967d1-75ca-46da-865d-63fe6b43c00b" />  Additional Information
-- 2025.05-2025.12                      中国生物物理学会                                  会员
-- 2024.02-2024.06           南方科技大学生物医学工程系本科课程（定量生理学II）                助教
+- 2026.02-2026.06           南方科技大学生物医学工程系本科课程（生物医学工程概论）         助教
+- 2025.05-2025.12                      中国生物物理学会                                   会员
+- 2024.02-2024.06           南方科技大学生物医学工程系本科课程（定量生理学II）             助教
 - 2023.09-2024.02                   南方科技大学生物医学工程系                           学生助管
 - 2020.09-2023.06                   华中农业大学某行政班团支部                          团支部书记
 - 2022.06-2023.06                    华中农业大学某党支部                            党支部组织委员
