@@ -23,7 +23,6 @@ redirect_from:
 - 2026.03, Biomedical Signal Processing and Control 期刊论文进入一轮审稿。
 - 2026.01, Journal of neuroscience methods 期刊论文进入三轮审稿。
 - 2026.01, 被浙江大学拟录取为2026级博士研究生。 
-- 2026.01, 2026年拔尖创新后备人才培养计划启动。
 - 2025.12, 获得硕士研究生国家奖学金。
 - 2025.12, 收到华为录用通知书。
 
