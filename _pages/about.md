@@ -21,10 +21,7 @@ redirect_from:
 
 # <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/bc66729d-22e0-4ac5-aeba-07ac07a462ff" />  News
 - 2026.03, Biomedical Signal Processing and Control 期刊论文进入一轮审稿。
-- 2026.01, Journal of neuroscience methods 期刊论文进入三轮审稿。
-- 2026.01, 被浙江大学拟录取为2026级博士研究生。 
-- 2025.12, 获得硕士研究生国家奖学金。
-- 2025.12, 收到华为录用通知书。
+- 2026.03, Journal of neuroscience methods 期刊论文进入三轮审稿。
 
 # <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/63f07c8f-e7cc-48f4-9923-40109345c0f7" />  Honors and awards
 - 2025.12, **国家奖学金**，教育部。
@@ -63,7 +60,7 @@ redirect_from:
 -	[01] 面向温室作物的盆栽表型信息获取机器人，国家级大学生创新创业基金(202110504059)，2021-2022，项目主要成员(4/5)，已结题。 <br>
 
 # <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/f24ef6cf-a305-4a8d-a150-89b8f0a4cd76" />  Meetings and exchanges
-- 2026.01-2026.02, **拔尖创新后备人才培养计划**, 高层次国际化人才培养创新实践项目, 教育部中外人文交流中心.
+- 2026.01-2026.02, 拔尖创新后备人才培养计划, 高层次国际化人才培养创新实践项目, 教育部中外人文交流中心.
 - 2021.12-2022.02, **Winter Exchange Program GSA-Kyoto 2021-2022**, Topic: Transformation of Food, Life & Environment in East Asia and Advanced Research, kyoto University.
 - 2021.01-2021.02, **GYLA-Winter Program**, held by International Training Centre of International Labor Organization (ITCILO) of United Nations. Outstandingly. 
 
