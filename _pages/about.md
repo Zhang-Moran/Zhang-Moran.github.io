@@ -22,7 +22,7 @@ redirect_from:
 # <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/bc66729d-22e0-4ac5-aeba-07ac07a462ff" />  News
 - 2026.04, 以第一作者身份完成的RMScratch项目论文已被Journal of neuroscience methods 期刊接受。
 - 2026.04, 最新一篇期刊论文进入一轮审稿。
-- 
+
 # <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/63f07c8f-e7cc-48f4-9923-40109345c0f7" />  Honors and awards
 - 2025.12, **国家奖学金**，教育部。
 -	2019.03, **山东省优秀学生干部**，山东省教育厅。
