@@ -20,8 +20,7 @@ redirect_from:
 **张墨然**(Zhang Moran)，国家人工智能学院与浙江大学联合培养博士生(拟录取)，南方科技大学硕士在读，研究兴趣为AI在生物医学以及农业上的应用，共完成**8篇学术论文**，其中已发表**JCR1区SCI论文7篇(5篇1作)**。曾获**国家奖学金**、全国大学生生命科学竞赛全国特等奖等**国家级荣誉或奖项7项**。主要负责研发的**科研实验设备被北京大学、南方医科大学珠江医院、深圳科兴药业有限公司**等多家单位所使用。主要发表的**学术论文入选教育部“101计划”核心教材、高等教育出版社“十四五”规划教材的“推荐阅读”专栏**。曾**主持中央高校基本科研业务费专项基金**等项目3项，目前参与国家重点研发计划等多个项目工作，主要聚焦于**生物医学及农业跨尺度多模态多场景信息智能感知、表征、处理与决策**的方法与系统的研究工作。
 
 # <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/bc66729d-22e0-4ac5-aeba-07ac07a462ff" />  News
-- 2026.04, 以第一作者身份完成的RMScratcher项目论文已被Journal of neuroscience methods 期刊接收。
-- 2026.04, 最新一篇期刊论文进入一轮审稿。
+- 2026.04, 以第一作者身份完成的RMScratcher项目论文已在Journal of neuroscience methods 期刊发表。
 
 # <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/63f07c8f-e7cc-48f4-9923-40109345c0f7" />  Honors and awards
 - 2025.12, **国家奖学金**，教育部。
@@ -32,7 +31,7 @@ redirect_from:
 -	2022.11, 华中农业大学十佳项目奖(全校仅10个/年)，华中农业大学，团队成员(5/5)。
 
 # <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/f23d1dac-7866-4929-80aa-6e107d507819" />  Publications 
-- [07] <span style="background:#03228D; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">J. Neurosci. Methods 2026</span> **Zhang Moran†**, Zeng Xin†, Chen Min, Liu Jinxuan, Li Li, Chen Hongxiang* and Chen Fangyi*. RMScratcher: An Edge-AI Platform for High-Throughput Analysis of Rodent Scratching Behavior. J. Neurosci. Methods 2026. (Accepted) (SCI, IF<sub>2025</sub>=2.3，JCR 2 区，中科院3区)
+- [07] <span style="background:#03228D; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">J. Neurosci. Methods 2026</span> **Zhang Moran†**, Zeng Xin†, Chen Min, Liu Jinxuan, Li Li, Chen Hongxiang* and Chen Fangyi*. RMScratcher: An Edge-AI Platform for High-Throughput Analysis of Rodent Scratching Behavior. J. Neurosci. Methods 2026. https://doi.org/10.1016/j.jneumeth.2026.110786 (SCI, IF<sub>2025</sub>=2.3，JCR 2 区，中科院3区)
 - [06] <span style="background:#03228D; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Toxics 2025</span> **Zhang Moran†**, Li Qianqian†, Li Shunhang†, Sun Binxian, Wu Zhuli, Liu Jinxuan, Geng Xingchao* and Chen Fangyi*. MWB_Analyzer: An Automated Embedded System for Real-Time Quantitative Analysis of Morphine Withdrawal Behaviors in Rodents. Toxics 2025. 13 (7): 586. https://doi.org/10.3390/toxics13070586 (SCI, IF<sub>2025</sub>=4.1，JCR 1 区，中科院3区)
 -	[05] <span style="background:#03228D; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Hortic. Plant J. 2024</span> **Zhang Moran**, Han Yutong, Li Dongping, Xu Shengyong* and Huang Yuan*. Smart Horticulture as an Emerging Interdisciplinary Combining Novel Solutions: Past Development, Current Challenges and Future Perspectives.  Hortic. Plant J. 2024. 10 (6): 1257-1273. https://doi.org/10.1016/j.hpj.2023.03.015 (SCI，IF<sub>2024</sub>=5.7，JCR 1区, 中科院1区TOP）<br> <span style="color:#8B0000;"> **Highlight**: 入选教育部“101计划”核心教材、高等教育出版社“十四五”规划教材的“推荐阅读”专栏</span>. <br> <span style="color:#03228D;">**教材评：** “该文综述了智慧园艺这一新兴交叉领域的发展历程、当前挑战，并展望了未来发展方向，强调利用人工智能、大数据等新技术提升园艺产业效率与可持续性。通过文献回顾的方式，梳理了智慧园艺的发展历程和当前所面临的挑战、提出了融合智能技术的解决方案，能够引发读者对园艺大数据的思考。”</span>
 -	[04] <span style="background:#03228D; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Comput. Electron. Agric. 2023</span> **Zhang Moran**, Xu Shengyong* , Han Yutong, Li Dongping, Yang Shuo and Huang Yuan*. High-throughput horticultural phenomics: the history, recent advances and new prospects. Comput. Electron. Agric. 2023. 213: 108265. https://doi.org/10.1016/j.compag.2023.108265 (SCI, IF<sub>2023</sub>=8.3，JCR 1 区，中科院1区TOP)
