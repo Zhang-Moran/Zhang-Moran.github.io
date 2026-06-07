@@ -47,13 +47,13 @@ redirect_from:
 - [02] <span style="background:#03228D; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">发明专利 2025</span> 陈放怡, 耿兴超, **张墨然**等. 药物成瘾性评价方法、系统、设备及可读存储介质(CN202510914835.6)，实质审查并公开. 2025.07. 
 - [01] <span style="background:#03228D; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">发明专利 2024</span> 陈放怡, **张墨然**, 陈闽. 行为识别方法､装置､计算机设备､存储介质和存储介质(CN202411955159.9)，实质审查并公开. 2024.12.
 
-# <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/0490c3c3-43a7-4757-a2f9-070fda332dd1" />  Educations
 <span class='anchor' id='educations'></span>
+# <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/0490c3c3-43a7-4757-a2f9-070fda332dd1" />  Educations
 - <span style="background:#03228D; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">工学硕士</span> 2023.08 - 至今, 南方科技大学, 电子科学与技术专业，深圳.  
 - <span style="background:#03228D; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">工学学士</span> 2019.09 - 2023.07, 华中农业大学, 机械电子工程专业，武汉. 
 
-# <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/852b5373-6bfa-47ad-947a-e0ed2f771d60" />  Project
 <span class='anchor' id='project'></span>
+# <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/852b5373-6bfa-47ad-947a-e0ed2f771d60" />  Project
 - [10] **啮齿类动物多场景跨尺度多模态多行为实时感知与表征技术研究，硕士研究生课题，2023-至今，主持(1/9)，在研。** <br>
 -	[09] 植入式舌下神经刺激电极与呼吸检测技术研发，国家重点研发计划(2024YFC2417900)，2024-2027，参与(35/75)，在研。<br>
 -	[08] 基于多模态生理信息的个性化心肺脑复苏智能一体机研发，深圳市科技重大专项(重202321087)，2023-2025，参与(19/24)，已结题。 <br>
