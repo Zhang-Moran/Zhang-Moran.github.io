@@ -19,12 +19,12 @@ redirect_from:
 
 **张墨然**(Zhang Moran)，国家人工智能学院与浙江大学联合培养博士生(拟录取)，南方科技大学硕士在读，研究兴趣为AI在生物医学以及农业上的应用。共完成**8篇学术论文**，其中已发表**SCI论文7篇(5篇1作)**。曾获**国家奖学金**、全国大学生生命科学竞赛全国特等奖等**国家级荣誉或奖项7项**。主要负责研发的**科研实验设备被北京大学、南方医科大学珠江医院、深圳科兴药业有限公司**等多家单位所使用。主要发表的**学术论文入选教育部“101计划”核心教材、高等教育出版社“十四五”规划教材的“推荐阅读”专栏**。曾**主持中央高校基本科研业务费专项基金**等项目3项，目前参与国家重点研发计划等多个项目工作，主要聚焦于**生物医学及农业跨尺度多模态多场景信息智能感知、建模、分析与决策**的方法与系统的研究工作。
 
-# <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/bc66729d-22e0-4ac5-aeba-07ac07a462ff" />  News 
 <span class='anchor' id='news'></span>
+# <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/bc66729d-22e0-4ac5-aeba-07ac07a462ff" />  News 
 - 2026.05, 以第一作者身份完成的RMScratcher项目论文已在Journal of neuroscience methods 期刊发表。
 
+<span class='anchor' id='Honors-and-awards'></span>
 # <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/63f07c8f-e7cc-48f4-9923-40109345c0f7" />  Honors and awards
-<span class='anchor' id='Honors and awards'></span>
 - 2025.12, **国家奖学金**，教育部。
 -	2019.03, **山东省优秀学生干部**，山东省教育厅。
 -	2022.08, **全国大学生生命科学竞赛，全国特等奖(前1%)**，团队负责人(1/3)。
@@ -32,8 +32,8 @@ redirect_from:
 -	2022.11, 华中农业大学十佳作品奖(全校仅10个/年)，华中农业大学，团队负责人(1/9)。
 -	2022.11, 华中农业大学十佳项目奖(全校仅10个/年)，华中农业大学，团队成员(5/5)。
 
-# <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/f23d1dac-7866-4929-80aa-6e107d507819" />  Publications 
 <span class='anchor' id='publications'></span>
+# <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/f23d1dac-7866-4929-80aa-6e107d507819" />  Publications 
 - [07] <span style="background:#03228D; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">J. Neurosci. Methods 2026</span> **Zhang Moran†**, Zeng Xin†, Chen Min, Liu Jinxuan, Li Li, Chen Hongxiang* and Chen Fangyi*. RMScratcher: An edge-AI platform for high-throughput analysis of rodent scratching behavior. J. Neurosci. Methods 2026. 433: 110786. https://doi.org/10.1016/j.jneumeth.2026.110786 (SCI, IF<sub>2025</sub>=2.3，JCR 2 区)
 - [06] <span style="background:#03228D; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Toxics 2025</span> **Zhang Moran†**, Li Qianqian†, Li Shunhang†, Sun Binxian, Wu Zhuli, Liu Jinxuan, Geng Xingchao* and Chen Fangyi*. MWB_Analyzer: An Automated Embedded System for Real-Time Quantitative Analysis of Morphine Withdrawal Behaviors in Rodents. Toxics 2025. 13 (7): 586. https://doi.org/10.3390/toxics13070586 (SCI, IF<sub>2025</sub>=4.1，JCR 1 区，中科院3区)
 -	[05] <span style="background:#03228D; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Hortic. Plant J. 2024</span> **Zhang Moran**, Han Yutong, Li Dongping, Xu Shengyong* and Huang Yuan*. Smart Horticulture as an Emerging Interdisciplinary Combining Novel Solutions: Past Development, Current Challenges and Future Perspectives.  Hortic. Plant J. 2024. 10 (6): 1257-1273. https://doi.org/10.1016/j.hpj.2023.03.015 (SCI，IF<sub>2024</sub>=5.7，JCR 1区, 中科院1区TOP）<br> <span style="color:#8B0000;"> **Highlight**: 入选教育部“101计划”核心教材、高等教育出版社“十四五”规划教材的“推荐阅读”专栏</span>. <br> <span style="color:#03228D;">**教材评：** “该文综述了智慧园艺这一新兴交叉领域的发展历程、当前挑战，并展望了未来发展方向，强调利用人工智能、大数据等新技术提升园艺产业效率与可持续性。通过文献回顾的方式，梳理了智慧园艺的发展历程和当前所面临的挑战、提出了融合智能技术的解决方案，能够引发读者对园艺大数据的思考。”</span>
@@ -42,8 +42,8 @@ redirect_from:
 -	[02] <span style="background:#03228D; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Front. Plant Sci. 2023</span> Qiao Yuhui, Liao Qingxi, **Zhang Moran**, Han Binbin, Peng Chengli, Huang Zhenhao, Wang Shaodong, Zhou Guangsheng and Xu Shengyong*. Point Clouds Segmentation of Rapeseed Based on Sparse-dense Point Clouds Mapping. Front. Plant Sci. 2023. 14:1188286. (SCI, IF<sub>2023</sub>=6.6, JCR 1 区，中科院1区TOP)
 -	[01] <span style="background:#03228D; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Agronomy 2022</span> Han Shaojie, Liu Jianxiao, Zhou Guangsheng, Jin Yechen, **Zhang Moran** and Xu Shengyong*. InceptionV3-LSTM: A Deep Learning Net for the Intelligent Prediction of Rapeseed Harvest Time. Agronomy 2022. 12 (12): 3046. https://doi.org/10.3390/agronomy12123046 (SCI，IF<sub>2022</sub>=3.9, JCR 1区，中科院2区）
 
-# <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/43c0fd0e-c66d-4a2a-87f2-7658eb26882c" />  Patents
 <span class='anchor' id='patents'></span>
+# <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/43c0fd0e-c66d-4a2a-87f2-7658eb26882c" />  Patents
 - [02] <span style="background:#03228D; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">发明专利 2025</span> 陈放怡, 耿兴超, **张墨然**等. 药物成瘾性评价方法、系统、设备及可读存储介质(CN202510914835.6)，实质审查并公开. 2025.07. 
 - [01] <span style="background:#03228D; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">发明专利 2024</span> 陈放怡, **张墨然**, 陈闽. 行为识别方法､装置､计算机设备､存储介质和存储介质(CN202411955159.9)，实质审查并公开. 2024.12.
 
@@ -65,14 +65,14 @@ redirect_from:
 -	[02] **基于3D表型和温度场的果菜苗生长状况视觉诊断方法，湖北省大学生创新创业基金(S202110504191), 2021-2022，主持(1/5)，已结题。** <br>
 -	[01] 面向温室作物的盆栽表型信息获取机器人，国家级大学生创新创业基金(202110504059)，2021-2022，项目主要成员(4/5)，已结题。 <br>
 
-# <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/f24ef6cf-a305-4a8d-a150-89b8f0a4cd76" />  Meetings and exchanges
 <span class='anchor' id='meetings-and-exchanges'></span>
+# <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/f24ef6cf-a305-4a8d-a150-89b8f0a4cd76" />  Meetings and exchanges
 - 2026.01-2026.02, 拔尖创新后备人才培养计划, 高层次国际化人才培养创新实践项目, 教育部中外人文交流中心.
 - 2021.12-2022.02, **Winter Exchange Program GSA-Kyoto 2021-2022**, Topic: Transformation of Food, Life & Environment in East Asia and Advanced Research, kyoto University.
 - 2021.01-2021.02, **GYLA-Winter Program**, held by International Training Centre of International Labor Organization (ITCILO) of United Nations. Outstandingly. 
 
+<span class='anchor' id='Additional-Informations'></span>
 # <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/e99967d1-75ca-46da-865d-63fe6b43c00b" />  Additional Information
-<span class='anchor' id='Additional Informations'></span>
 - 2025.05-2025.12                      中国生物物理学会                                   会员
 - 2020.09-2023.06                    华中农业大学某团支部                               团支部书记
 - 2022.06-2023.06                    华中农业大学某党支部                            党支部组织委员
