@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhang Moran"
-description              : "Master student"
+title                    : "张墨然"
+description              : "硕士"
 repository               : "Zhang-Moran/Zhang-Moran.github.io"
 google_scholar_stats_use_cdn : True
 
