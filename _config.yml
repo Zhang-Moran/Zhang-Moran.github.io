@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhang Moran"
   avatar           : "images/cvimg.jpg"
-  bio              : "Southern University of Science and Technology"
-  location         : "Shenzhen, China"
+  bio              : "南方科技大学"
+  location         : "中国深圳"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=7ia_5YsAAAAJ"
