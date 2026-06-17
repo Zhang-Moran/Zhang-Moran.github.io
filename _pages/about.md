@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-**张墨然**(Zhang Moran)，国家人工智能学院与浙江大学联合培养博士生(拟录取)，南方科技大学硕士在读，研究兴趣为AI在生物医学以及农业上的应用。共完成**8篇学术论文**，其中已发表**SCI论文7篇(5篇1作)**。曾获**国家奖学金**、全国大学生生命科学竞赛全国特等奖等**国家级荣誉或奖项7项**。主要负责研发的**科研实验设备被北京大学、南方医科大学珠江医院、深圳科兴药业有限公司**等多家单位所使用。主要发表的**学术论文入选教育部“101计划”核心教材、高等教育出版社“十四五”规划教材的“推荐阅读”专栏**。曾**主持中央高校基本科研业务费专项基金**等项目3项，目前参与国家重点研发计划等多个项目工作，主要聚焦于**生物医学及农业跨尺度多模态多场景信息智能感知、建模、分析与决策**的方法与系统的研究工作。
+**张墨然**(Zhang Moran)，国家人工智能学院(北京中关村学院)与浙江大学联合培养博士生，南方科技大学硕士在读，研究兴趣为AI在生物医学以及农业上的应用。共完成**8篇学术论文**，其中已发表**SCI论文7篇(5篇1作)**。曾获**国家奖学金**、全国大学生生命科学竞赛全国特等奖等**国家级荣誉或奖项7项**。主要负责研发的**科研实验设备被北京大学、南方医科大学珠江医院、深圳科兴药业有限公司**等多家单位所使用。主要发表的**学术论文入选教育部“101计划”核心教材、高等教育出版社“十四五”规划教材的“推荐阅读”专栏**。曾**主持中央高校基本科研业务费专项基金**等项目3项，目前参与国家重点研发计划等多个项目工作，主要聚焦于**生物医学及农业跨尺度多模态多场景信息智能感知、建模、分析与决策**的方法与系统的研究工作。
 
 <span class='anchor' id='news'></span>
 # <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/bc66729d-22e0-4ac5-aeba-07ac07a462ff" />  News 
@@ -50,8 +50,10 @@ redirect_from:
 
 <span class='anchor' id='educations'></span>
 # <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/0490c3c3-43a7-4757-a2f9-070fda332dd1" />  Educations
-- <span style="background:#03228D; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">工学硕士</span> 2023.08 - 至今, 南方科技大学, 电子科学与技术专业，深圳.  
-- <span style="background:#03228D; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">工学学士</span> 2019.09 - 2023.07, 华中农业大学, 机械电子工程专业，武汉. 
+- 2026.09 - 至今, 浙江大学, 工学博士在读, 杭州.
+- 2026.09 - 至今, 国家人工智能学院(北京中关村学院)联合培养博士在读, 北京.  
+- 2023.09 - 2026.06, 南方科技大学, 工学硕士, 深圳.  
+- 2019.09 - 2023.06, 华中农业大学, 工学学士, 武汉. 
 
 <span class='anchor' id='project'></span>
 # <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/852b5373-6bfa-47ad-947a-e0ed2f771d60" />  Project
