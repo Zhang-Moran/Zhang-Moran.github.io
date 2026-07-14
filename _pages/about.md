@@ -50,6 +50,7 @@ redirect_from:
 
 <span class='anchor' id='educations'></span>
 # <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/0490c3c3-43a7-4757-a2f9-070fda332dd1" />  Educations
+- 2026.09 - 至今，浙江大学，工学博士在读，杭州.
 - 2023.09 - 2026.06, 南方科技大学, 工学硕士, 深圳.  
 - 2019.09 - 2023.06, 华中农业大学, 工学学士, 武汉. 
 
