@@ -34,10 +34,11 @@
 }
 
 .masthead__menu {
+  position: relative;
 
-  display: flex;
-  align-items: center;
-  gap: .5em;
+  .greedy-nav {
+    margin-right: 10em;
+  }
 
   ul {
     margin: 0;
@@ -48,8 +49,16 @@
 }
 
 .language-switcher {
-  flex: 0 0 auto;
-  margin-left: auto;
+  position: absolute;
+  top: .25em;
+  right: 0;
+  display: flex;
+  align-items: center;
+  gap: .4em;
+}
+
+.language-switcher__label {
+  font-size: .85em;
 }
 
 .language-switcher__select {
@@ -69,6 +78,20 @@
 .language-switcher__select:focus {
   outline: 2px solid $primary-color;
   outline-offset: 1px;
+}
+
+@include breakpoint($small max-width) {
+  .masthead__menu .greedy-nav {
+    margin-right: 6em;
+  }
+
+  .language-switcher__label {
+    display: none;
+  }
+
+  .language-switcher__select {
+    min-width: 5.5em;
+  }
 }
 
 .masthead__menu-home-item {

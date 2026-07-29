@@ -1,28 +1,28 @@
 # main links links
 main:
-  - title: "About Me"
+  - title: "关于我"
     url: "#about-me"
 
-  - title: "News"
+  - title: "最新动态"
     url: "#news"
 
-  - title: "Honors and Awards"
+  - title: "荣誉与奖项"
     url: "#Honors-and-awards"
 
-  - title: "Publications"
+  - title: "发表论文"
     url: "#publications"
 
-  - title: "Patents"
+  - title: "专利"
     url: "#patents"
 
-  - title: "Project"
+  - title: "项目"
     url: "#project"
     
-  - title: "Educations"
+  - title: "教育经历"
     url: "#educations"
 
-  - title: "Meetings and Exchanges"
+  - title: "会议与交流"
     url: "#meetings-and-exchanges"
 
-  - title: "Additional Informations"
+  - title: "其他信息"
     url: "#Additional-Informations"

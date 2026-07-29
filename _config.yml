@@ -10,6 +10,7 @@ title                    : "Zhang Moran"
 description              : "工学博士在读"
 repository               : "Zhang-Moran/Zhang-Moran.github.io"
 google_scholar_stats_use_cdn : True
+glm_translation_endpoint     : "" # Secure server-side GLM translation proxy URL
 
 # google analytics
 google_analytics_id      :  # get google_Tanalytics_id from https://analytics.google.com/analytics/
