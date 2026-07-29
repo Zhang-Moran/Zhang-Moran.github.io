@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhang Moran"
-description              : "Ph.D. Student at Zhejiang University"
+description              : "Ph.D. Student"
 repository               : "Zhang-Moran/Zhang-Moran.github.io"
 google_scholar_stats_use_cdn : True
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhang Moran"
   avatar           : "images/cvimg.jpg"
-  bio              : "Ph.D. Student at Zhejiang University"
-  location         : "Haidian, Beijing"
+  bio              : "Zhejiang University"
+  location         : "Beijing"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=7ia_5YsAAAAJ"
