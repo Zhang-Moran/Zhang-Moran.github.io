@@ -4,9 +4,9 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">主页</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">{% if page.lang == "en" %}Homepage{% else %}主页{% endif %}</a></li>
           {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{% if page.lang == "en" %}{{ link.title_en }}{% else %}{{ link.title_zh }}{% endif %}</a></li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
@@ -15,8 +15,8 @@
         <label class="screen-reader-text" for="language-select">Language / 语言</label>
         <span class="language-switcher__label" aria-hidden="true">Language / 语言</span>
         <select id="language-select" class="language-switcher__select">
-          <option value="zh-CN">中文</option>
-          <option value="en">English</option>
+          <option value="zh-CN"{% unless page.lang == "en" %} selected{% endunless %}>中文</option>
+          <option value="en"{% if page.lang == "en" %} selected{% endif %}>English</option>
         </select>
       </div>
     </div>
