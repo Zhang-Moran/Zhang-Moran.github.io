@@ -35,12 +35,40 @@
 
 .masthead__menu {
 
+  display: flex;
+  align-items: center;
+  gap: .5em;
+
   ul {
     margin: 0;
     padding: 0;
     clear: both;
     list-style-type: none;
   }
+}
+
+.language-switcher {
+  flex: 0 0 auto;
+  margin-left: auto;
+}
+
+.language-switcher__select {
+  height: 2.25em;
+  min-width: 8.5em;
+  margin: 0;
+  padding: 0 .5em;
+  color: $text-color;
+  font-family: $sans-serif-narrow;
+  font-size: .85em;
+  background-color: white;
+  border: 1px solid $border-color;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.language-switcher__select:focus {
+  outline: 2px solid $primary-color;
+  outline-offset: 1px;
 }
 
 .masthead__menu-home-item {
