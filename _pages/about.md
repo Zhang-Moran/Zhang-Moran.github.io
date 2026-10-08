@@ -56,7 +56,7 @@ redirect_from:
 
 <span class='anchor' id='project'></span>
 # <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/852b5373-6bfa-47ad-947a-e0ed2f771d60" />  项目经历
-- [11] 用于科学发现的AI智能体研究，短期实践项目，2026-至今，在研。<br>
+- [11] 用于科学发现的AI智能体研究（AI Scientist），短期实践项目，2026-至今，在研。<br>
 - [10] **啮齿类动物多场景跨尺度多模态多行为实时感知与表征技术研究，硕士研究生课题，2023-2026，主持(1/9)，结题。** <br>
 -	[09] 植入式舌下神经刺激电极与呼吸检测技术研发，国家重点研发计划(2024YFC2417900)，2024-2027，参与(35/75)，在研。<br>
 -	[08] 基于多模态生理信息的个性化心肺脑复苏智能一体机研发，深圳市科技重大专项(重202321087)，2023-2025，参与(19/24)，结题。 <br>
@@ -76,6 +76,4 @@ redirect_from:
 
 <span class='anchor' id='Additional-Informations'></span>
 # <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/e99967d1-75ca-46da-865d-63fe6b43c00b" />  其他信息
-- 2025.05-2025.12                      中国生物物理学会                                   会员
-- 2020.09-2023.06                    华中农业大学某团支部                               团支部书记
-- 2022.06-2023.06                    华中农业大学某党支部                            党支部组织委员
+
