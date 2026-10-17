@@ -46,12 +46,6 @@ lang: en
 - [02] <span style="background:#03228D; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Invention Patent 2025</span> Chen Fangyi, Geng Xingchao, **Zhang Moran**, et al. Method, system, apparatus, and computer-readable storage medium for evaluating drug addiction potential (CN202510914835.6), published following substantive examination. Jul. 2025.
 - [01] <span style="background:#03228D; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Invention Patent 2024</span> Chen Fangyi, **Zhang Moran**, Chen Min. Behavioral recognition method, apparatus, computer equipment, storage medium, and storage medium (CN202411955159.9), published following substantive examination. Dec. 2024.
 
-<span class='anchor' id='educations'></span>
-# <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/0490c3c3-43a7-4757-a2f9-070fda332dd1" /> Education
-- Sep. 2026-present: Ph.D. candidate in Engineering, Zhejiang University, Hangzhou, China.
-- Sep. 2023-Jun. 2026: M.Eng., Southern University of Science and Technology, Shenzhen, China.
-- Sep. 2019-Jun. 2023: B.Eng., Huazhong Agricultural University, Wuhan, China.
-
 <span class='anchor' id='project'></span>
 # <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/852b5373-6bfa-47ad-947a-e0ed2f771d60" /> Projects
 - [10] **Research on real-time sensing and representation technologies for cross-scale, multimodal, and multi-behavior analysis of rodents across multiple scenarios; master's research project; 2023-2026; principal investigator (1/9); completed.** <br>
