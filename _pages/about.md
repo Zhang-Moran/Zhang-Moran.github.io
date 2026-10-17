@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 关于我
-**张墨然**(Zhang Moran)，国家人工智能学院与浙江大学联合培养博士生，研究兴趣为AI在生物系统中的应用。共完成**8篇学术论文**，其中已发表**SCI论文7篇(5篇1作)**。曾获**国家奖学金**、全国大学生生命科学竞赛全国特等奖等**国家级荣誉或奖项7项**。主要负责研发的**科研实验设备被北京大学、南方医科大学珠江医院、深圳科兴药业有限公司**等多家单位所使用。主要发表的**学术论文入选教育部“101计划”核心教材、高等教育出版社“十四五”规划教材的“推荐阅读”专栏**。曾**主持中央高校基本科研业务费专项基金**等项目3项，目前参与国家重点研发计划等多个项目工作，主要聚焦于**生物跨尺度多模态多场景信息智能感知、建模、分析与决策**的方法与系统的研究工作。
+**张墨然**(Zhang Moran)，国家人工智能学院与浙江大学联合培养博士生，研究兴趣为AI在生物系统中的应用。共完成**8篇学术论文**，其中已发表**SCI论文7篇(5篇1作)**。曾获**国家奖学金**、全国大学生生命科学竞赛全国特等奖等**国家级荣誉或奖项7项**。主要负责研发的**科研实验设备被北京大学、南方医科大学珠江医院、深圳科兴药业有限公司**等多家单位所使用。主要发表的**学术论文入选教育部“101计划”核心教材、高等教育出版社“十四五”规划教材的“推荐阅读”专栏**。曾**主持中央高校基本科研业务费专项基金**等项目3项，目前参与国家重点研发计划等多个项目工作，主要聚焦于**生物跨尺度多模态人工智能、科学基础模型与智能感知**的方法与系统的研究工作。
 
 <span class='anchor' id='news'></span>
 # <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/bc66729d-22e0-4ac5-aeba-07ac07a462ff" />  最新动态 
@@ -47,12 +47,6 @@ redirect_from:
 # <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/43c0fd0e-c66d-4a2a-87f2-7658eb26882c" />  专利
 - [02] <span style="background:#03228D; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">发明专利 2025</span> 陈放怡, 耿兴超, **张墨然**等. 药物成瘾性评价方法、系统、设备及可读存储介质(CN202510914835.6)，实质审查并公开. 2025.07. 
 - [01] <span style="background:#03228D; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">发明专利 2024</span> 陈放怡, **张墨然**, 陈闽. 行为识别方法､装置､计算机设备､存储介质和存储介质(CN202411955159.9)，实质审查并公开. 2024.12.
-
-<span class='anchor' id='educations'></span>
-# <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/0490c3c3-43a7-4757-a2f9-070fda332dd1" />  教育经历
-- 2026.09 - 至今，浙江大学，工学博士在读，杭州.
-- 2023.09 - 2026.06, 南方科技大学, 工学硕士, 深圳.  
-- 2019.09 - 2023.06, 华中农业大学, 工学学士, 武汉. 
 
 <span class='anchor' id='project'></span>
 # <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/852b5373-6bfa-47ad-947a-e0ed2f771d60" />  项目经历
